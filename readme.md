@@ -8,7 +8,7 @@
     <td>Lorem ipsum ...</td>
     <td>
         <div>
-            ![](https://img.shields.io/static/v1?label=V&message=programmer&color=yellow&style=for-the-badge)
+            ![](https://img.shields.io/badge/V-programmer-yellow?style=for-the-badge)
         </div>
     </td>
  </tr>
