@@ -1,9 +1,9 @@
 [![Header](/.imgs/h.png "Header")](https://davidsatimewallin.com/)
-![](https://img.shields.io/badge/V-programmer-536B8A?style=for-the-badge)
-![](https://img.shields.io/badge/Go-programmer-00ACD7?style=for-the-badge)
-![](https://img.shields.io/badge/PHP-programmer-8892BF?style=for-the-badge)
-![](https://img.shields.io/badge/GNU/Linux-user-F9BD00?style=for-the-badge)
+![](https://img.shields.io/badge/V--lang-★★☆☆☆-536B8A?style=for-the-badge)
+![](https://img.shields.io/badge/Go--lang-★★★★☆-00ACD7?style=for-the-badge)
+![](https://img.shields.io/badge/PHP-★★★★☆-8892BF?style=for-the-badge)
+![](https://img.shields.io/badge/GNU/Linux-★★★☆☆-F9BD00?style=for-the-badge)
 
 <p>
-    I am a self-taught programmer with a passion for writing clean and well structured code. My passion for writing code began around 1997 with the exploration of PHP. Around 2014 I defined Go as my preferred language. I enjoy trying out new languages and over the years I've written code in a lot of them; Go, PHP, V, Python, Ruby, Crystal, C and many more.
+    I am a huge language-nerd. I Started coding in 1998 but since 2014 my main interest lies in Go. In my spare time I like to dig into languages like python, ruby, crystal, zig, and many others. I am still passionate about learning new languages and techniques.  Besides my hands-on experience, I have enjoyed build and managing international, as well as local, software teams. I prefer working in a product company and make an impact with my work.
 </p>
