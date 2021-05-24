@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/Go--lang-★★★★☆-00ACD7?style=for-the-badge)](https://golang.org)
 [![](https://img.shields.io/badge/PHP-★★★★☆-8892BF?style=for-the-badge)](https://php.net)
 [![](https://img.shields.io/badge/GNU/Linux-★★★☆☆-F9BD00?style=for-the-badge)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/TypeScript-★★☆☆☆-3178C6?style=for-the-badge)](https://www.typescriptlang.org)
 [![](https://img.shields.io/badge/V--lang-★★☆☆☆-536B8A?style=for-the-badge)](https://vlang.io)
 [![](https://img.shields.io/badge/Python-★★☆☆☆-FFDA4B?style=for-the-badge)](https://www.python.org)
 [![](https://img.shields.io/badge/Ruby-★★☆☆☆-CC342D?style=for-the-badge)](https://ruby-lang.org)
