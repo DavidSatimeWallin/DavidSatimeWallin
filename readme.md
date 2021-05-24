@@ -6,6 +6,10 @@
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+        <div>
+            ![](https://img.shields.io/static/v1?label=V&message=programmer&color=yellow&style=for-the-badge)
+        </div>
+    </td>
  </tr>
 </table>
