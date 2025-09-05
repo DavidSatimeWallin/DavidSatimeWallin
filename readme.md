@@ -9,4 +9,4 @@
     I am a huge language-nerd. I Started coding PHP in 1997, between 2014 - 2018 my main language was Go, and since around 2020 I've loved writing most of my stuff in V (https://vlang.io). In my spare time I like to dig into languages like onyx, odin, crystal, zig, and many others. I am still passionate about learning new languages and techniques.  Besides my hands-on experience, I have enjoyed build and managing international software teams. I prefer working in a product company and make an impact with my work. I'm currently working as VP of Technology in a fintech company.
 </p>
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=dvwallin&show_icons=true&theme=buefy)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=davidsatimewallin&show_icons=true&theme=buefy)
