@@ -1,7 +1,7 @@
 [![Header](/.imgs/hd.png "Header")](https://davidsatimewallin.com/)
 [![](https://img.shields.io/badge/Go-★★★★☆-00ACD7?style=for-the-badge)](https://golang.org)
 [![](https://img.shields.io/badge/PHP-★★★★☆-8892BF?style=for-the-badge)](https://php.net)
-[![](https://img.shields.io/badge/V-★★☆☆☆-536B8A?style=for-the-badge)](https://vlang.io)
+[![](https://img.shields.io/badge/V-★★★★☆-536B8A?style=for-the-badge)](https://vlang.io)
 [![](https://img.shields.io/badge/Python-★★☆☆☆-FFDA4B?style=for-the-badge)](https://www.python.org)
 [![](https://img.shields.io/badge/Crystal-★☆☆☆☆-646464?style=for-the-badge)](https://crystal-lang.org)
 
